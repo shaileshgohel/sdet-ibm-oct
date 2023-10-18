@@ -9,7 +9,7 @@ public class GoogleTest extends BaseClass{
 	@Test
 	public void googleTestMehod() {
 		getDriver();
-		driver.get("http://www.google.com");
+		driver.get("http://www.yahoo.com");
 		
 	}
 
